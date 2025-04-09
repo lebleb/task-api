@@ -15,8 +15,8 @@ Follow the setup instructions here: https://github.com/nvm-sh/nvm#installing-and
 
 #### Switch to correct Node version:
 ```bash
-nvm install 22
-nvm use 22
+nvm install
+nvm use
 ```
 
 If you're using a shell like zsh or bash, the `.nvmrc` file in this repo will automatically set the correct version:
